@@ -20,6 +20,10 @@ public class Main implements Directions {
        // Write code here to make a letter here
        Jeroo kim = new Jeroo(5, 0, EAST, 0);
         kim.climbStairs();
+        kim.climbStairs();
+        kim.climbStairs();
+        kim.climbStairs();
+}
 
     }
 
